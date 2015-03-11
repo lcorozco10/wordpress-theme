@@ -1,0 +1,21 @@
+ /*
+Theme Name:   Cocomsys
+Theme URI:    http://www.cocomsys.com/
+Author:       Cocomsys
+Author URI:   http://www.cocomsys.com
+Description:  Tema de Prueba de cocomsys.
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         Cocomsys, Responsive, Software
+Text Domain:  Cocomsys
+Version:      1.0.0
+
+*/ 
+
+.main-title{	
+	margin: 0;
+}
+
+span.title-post {
+font-weight: bold;
+}
